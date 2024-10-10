@@ -3,7 +3,7 @@
 ## Collection of Demos and Articles related to Spark in Cloudera
 
 * [Spark 2 vs Spark 3 Demo](https://github.com/pdefusco/Spark3_Demo)
-  * Cloudera Spark Upgrade Workbook
+  * Reusable Deck & Cloudera Spark Upgrade Workbook
   * Spark Adaptive Query Execution (CML)
   * Spark Dynamic Partition Pruning (CML)
   * Apache Iceberg Time Travel (CDE)
